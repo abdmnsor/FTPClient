@@ -46,7 +46,7 @@ FTP Manager is a Windows desktop application that provides a user-friendly inter
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/FTPClient.git
+   git clone https://github.com/abdmnsor/FTPClient.git
    cd FTPClient
    ```
 
